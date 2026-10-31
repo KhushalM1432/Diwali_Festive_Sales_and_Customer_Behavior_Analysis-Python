@@ -4,7 +4,7 @@
 
 ### **Python | Data Cleaning | EDA | Statistical Analysis | Retail Analytics**
 
-## Project Overview
+### Project Overview
 
 Analyzed Diwali festive sales data using Python to examine customer purchasing behavior, revenue distribution, product demand, and regional sales performance.
 
